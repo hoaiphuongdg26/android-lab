@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab4_SQLite</string>
+
+    <string name="student_management">Student Management</string>
+    <string name="ok">ok</string>
+
+    <string name="detail">Student details</string>
+</resources>
